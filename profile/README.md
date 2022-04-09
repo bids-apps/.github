@@ -14,4 +14,4 @@ Otherwise feel free to open an
 on any of those repositories if you have specific questions or requests
 
 As a reminder, all contributors have to adhere to our
-[Code of Conduct](../CODE_OF_CONDUCT.md).
+[Code of Conduct](https://github.com/BIDS-Apps/.github/blob/main/CODE_OF_CONDUCT.md).
