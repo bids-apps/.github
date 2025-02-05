@@ -9,9 +9,11 @@ For generic BIDS related question use the
 [NeuroStars](https://neurostars.org/tags/bids) Discourse Forum, under the `bids`
 tag.
 
-Otherwise feel free to open an
+Otherwise, feel free to open an
 [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
-on any of those repositories if you have specific questions or requests
+on any of those repositories if you have specific questions or requests, or register
+more BIDS Apps by adding them to
+[apps.yml](https://github.com/bids-standard/bids-website/blob/main/data/tools/apps.yml).
 
 As a reminder, all contributors have to adhere to our
 [Code of Conduct](https://github.com/BIDS-Apps/.github/blob/main/CODE_OF_CONDUCT.md).
